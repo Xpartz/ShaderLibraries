@@ -4,4 +4,8 @@ This library of functions for the shader graph in Unity. I use them to create ef
 
 
 # Wave coordinates
-![Wave coordinates](https://github.com/Xpartz/ShaderLibraries/blob/main/Assets/ReadmeGIF/bandicam%202023-10-31%2018-50-47-279.gif)
+![Wave coordinates](https://github.com/Xpartz/ShaderLibraries/blob/main/Assets/ReadmeGIF/WaveCoordinates.gif)
+
+# Scale from the center
+![Wave coordinates](https://github.com/Xpartz/ShaderLibraries/blob/main/Assets/ReadmeGIF/ScaleFromTheCenter.gif)
+The function has the ability to disable tiling at the shader level through the saturate function.
